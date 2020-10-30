@@ -1,1 +1,1 @@
-# news_image_captioning_for_news_articles
+# News Image Captioning for News Articles
